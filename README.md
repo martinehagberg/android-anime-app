@@ -5,29 +5,29 @@ Appen gir brukeren mulighet til å utforske anime, søke etter spesifikke serier
 
 ---
 
-## 🚀 Funksjonalitet
+## Funksjonalitet
 
 Appen består av fire hovedskjermer:
 
-### 🔍 1. Utforsk anime
+###  1. Utforsk anime
 - Henter data fra JIKAN API
 - Viser liste med anime (LazyColumn)
 - Filtrering etter sjanger
 - Utvidbar beskrivelse (Se mer / Se mindre)
 - Legg til favoritter
 
-### 🔎 2. Søk etter anime
+###  2. Søk etter anime
 - Søk etter anime via ID
 - Viser detaljer (bilde, rating, episoder, sjanger)
 - Feilhåndtering ved ugyldig ID
 - Mulighet for å lagre som favoritt
 
-### 💡 3. Egne anime-idéer
+###  3. Egne anime-idéer
 - Opprette, redigere og slette ideer (CRUD)
 - Lagring lokalt med Room database
 - Dialog ved sletting (AlertDialog)
 
-### ⭐ 4. Favoritter
+###  4. Favoritter
 - Liste over lagrede favoritt-anime
 - Sortering
 - Sletting med bekreftelse
@@ -35,7 +35,7 @@ Appen består av fire hovedskjermer:
 
 ---
 
-## 🛠 Teknologier
+##  Teknologier
 
 - Kotlin
 - Jetpack Compose
@@ -48,7 +48,7 @@ Appen består av fire hovedskjermer:
 
 ---
 
-## 🧠 Hva jeg har lært
+## Hva jeg har lært
 
 Gjennom dette prosjektet har jeg lært:
 
@@ -61,7 +61,7 @@ Gjennom dette prosjektet har jeg lært:
 
 ---
 
-## 👩‍💻 Min rolle
+##  Min rolle
 
 Dette var et gruppeprosjekt hvor jeg bidro med:
 - UI-utvikling med Jetpack Compose
@@ -70,14 +70,7 @@ Dette var et gruppeprosjekt hvor jeg bidro med:
 
 ---
 
-## 📸 Screenshots
+## Screenshot
 
-*(legg inn bilder her hvis du vil – dette gjør repoet MYE bedre)*
+<img width="744" height="550" alt="Skjermbilde 2026-03-17 kl  20 01 35" src="https://github.com/user-attachments/assets/995b9cf5-4f43-47fd-9da7-531067a90492" />
 
----
-
-## ⚙️ Hvordan kjøre prosjektet
-
-1. Klon repoet:
-```bash
-git clone https://github.com/ditt-brukernavn/android-anime-app.git
